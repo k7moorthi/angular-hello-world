@@ -1,2 +1,2 @@
-# angular-hello-world
-A simple Angular Hello World app.
+# Angular - Hello World
+A simple Hello World app to start with Angular 4.
